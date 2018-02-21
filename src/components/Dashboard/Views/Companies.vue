@@ -15,6 +15,8 @@
 </template>
 <script>
   /* eslint-disable */
+  import {rooturl} from 'src/main'
+
   export default {
     data () {
       return {
@@ -35,7 +37,7 @@
     // },
     methods: {
       fetchData () {
-        this.$http.get("http://localhost:5003/comp").then(response => {
+        this.$http.get(rooturl+"/comp").then(response => {
           this.response = response.body.data;
           this.companies = this.response.companies;
           this.description = this.response.description;

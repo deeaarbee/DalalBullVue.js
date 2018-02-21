@@ -52,7 +52,7 @@
           })
       },
       fetchData () {
-        this.$http.get(rooturl+"/about").then(response => {
+        this.$http.post(rooturl+"/about").then(response => {
           this.response = response.body;
           this.rules = this.response.rules;
           this.how = this.response.how;
