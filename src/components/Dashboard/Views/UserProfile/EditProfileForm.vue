@@ -147,7 +147,10 @@
   </div>
 </template>
 <script>
+
   /*eslint-disable*/
+  import {rooturl} from 'src/main'
+
   export default {
     data () {
       return {
@@ -179,7 +182,7 @@
     },
     methods: {
       fetchdata(){
-        this.$http.post("http://localhost:5003/profile",{"token":this.$store.state.token}).then(response => {
+        this.$http.post(rooturl+"/profile",{"token":this.$store.state.token}).then(response => {
           console.log(response.body.data.currentuser)
           this.data = response.body.data.currentuser;
           this.user.username = this.data.username;

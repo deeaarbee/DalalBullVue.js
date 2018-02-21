@@ -35,7 +35,7 @@ const router = new VueRouter({
   linkActiveClass: 'active'
 })
 
-export const rooturl = 'http://localhost:5003';
+export const rooturl = 'http://139.59.86.38:5003';
 
 // global library setup
 Object.defineProperty(Vue.prototype, '$Chartist', {

@@ -1,0 +1,52 @@
+
+> vue-admin-paper-dashboard@1.0.0 dev /home/deeaarbee/DalalBullVuejs
+> cross-env ENABLE_ESLINT=true node build/dev-server.js
+
+(node:4810) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+(node:4810) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4810) DeprecationWarning: loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+ DONE  Compiled successfully in 12565ms14:08:21
+
+> Listening at http://localhost:8000
+
+ WAIT  Compiling...14:22:22
+
+ DONE  Compiled successfully in 1200ms14:22:23
+
+
+> vue-admin-paper-dashboard@1.0.0 dev /home/deeaarbee/DalalBullVuejs
+> cross-env ENABLE_ESLINT=true node build/dev-server.js
+
+(node:1742) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+(node:1742) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:1742) DeprecationWarning: loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+ DONE  Compiled successfully in 10906ms16:45:05
+
+> Listening at http://localhost:8000
+
+
+> vue-admin-paper-dashboard@1.0.0 dev /home/deeaarbee/DalalBullVuejs
+> cross-env ENABLE_ESLINT=true node build/dev-server.js
+
+(node:2009) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+(node:2009) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2009) DeprecationWarning: loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+ DONE  Compiled successfully in 9376ms16:55:27
+
+> Listening at http://localhost:8000
+
+
+> vue-admin-paper-dashboard@1.0.0 dev /home/deeaarbee/DalalBullVuejs
+> cross-env ENABLE_ESLINT=true node build/dev-server.js
+
+(node:2535) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): Error: Exited with code 3
+(node:2535) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2535) DeprecationWarning: loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+ DONE  Compiled successfully in 8746ms17:28:51
+
+> Listening at http://localhost:8000
+
