@@ -50,3 +50,11 @@ parseQuery() will be replaced with getOptions() in the next major version of loa
 
 > Listening at http://localhost:8000
 
+ WAIT  Compiling...08:43:37
+
+ DONE  Compiled successfully in 683ms08:43:38
+
+ WAIT  Compiling...12:27:54
+
+ DONE  Compiled successfully in 400ms12:27:54
+

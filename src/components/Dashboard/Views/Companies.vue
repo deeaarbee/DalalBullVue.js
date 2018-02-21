@@ -37,7 +37,7 @@
     // },
     methods: {
       fetchData () {
-        this.$http.get(rooturl+"/comp").then(response => {
+        this.$http.post(rooturl+"/comp").then(response => {
           this.response = response.body.data;
           this.companies = this.response.companies;
           this.description = this.response.description;
