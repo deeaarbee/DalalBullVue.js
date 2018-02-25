@@ -1,7 +1,7 @@
 <template>
   <div class="wrapper">
     <form class="form-signin">
-      <h2 class="form-signin-heading">Please login</h2>
+      <h2 class="form-signin-heading">Dalal Bull login</h2>
       <input type="text" class="form-control" name="username" placeholder="Username" required="" autofocus="" v-model="user.username" />
       <input type="password" class="form-control" name="password" placeholder="Password" required="" v-model="user.password" />
       <label class="checkbox">
